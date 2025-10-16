@@ -2,7 +2,7 @@
 
 A modern, interactive basketball scoreboard built with HTML, CSS, and JavaScript. This project replicates a digital scoreboard interface with a clean, professional design and smooth animations.
 
-![Basketball Scoreboard](https://nba-basketball-scoreboard.netlify.app/)
+![Basketball Scoreboard]("C:\Users\Edmund Blessing\Pictures\Screenshots\Screenshot 2025-10-16 154910.png")
 
 ## ✨ Features
 
